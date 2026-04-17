@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+/dist
+/build
+
+# IDE specific files
+/.idea/
+.vscode/
+.DS_Store
+
+# Environment variables
+.env
